@@ -1,4 +1,4 @@
-# CaSB Short Course 2024
+# MCSB Bootcamp 2025
 
 ## Let's write a short story!
 
@@ -10,11 +10,11 @@ We will spend about 5 minutes on each step. If you get lost or something doesn't
 
 1. Generate a random number using [www.google.com/search?q=random+number+generator](https://www.google.com/search?q=random+number+generator). If it is less than 5, you are in Tier 1. If it is greater than 5, you are in Tier 2. 
 
-2. If you are in Tier 1, fork this repo from allardjun. The "Fork" button is at top-right.
+2. If you are in Tier 1, fork this repo from jcorrett. The "Fork" button is at top-right.
 
 3. If you are in Tier 2, wait a minute for the Tier 1 fork to show up. Then, click the number to the right of the "Fork" button. You will see a list of Tier 1 students who have forked it from allardjun. Fork the repo from one of them. 
 
-4. Everyone: Make sure you are in  *your* repo. The URL and the title should say `[your username]/CaSB2024OurStory`, and not `[someone else's username]/Foundations2024OurStory`. Then, 
+4. Everyone: Make sure you are in  *your* repo. The URL and the title should say `[your username]/MCSB_2025_OurStory`, and not `[someone else's username]/MCSB_2025_OurStory`. Then, 
 
     - Click the file `main.tex`. 
     - Click the edit button, which is a pencil icon at the right of the screen, between a monitor icon and a trash icon.
@@ -36,5 +36,5 @@ We will spend about 5 minutes on each step. If you get lost or something doesn't
      - Click "New Pull Request" green button on right of the screen.
      - Create Pull Request
      
-10. The merged version is now in the `allardjun/CaSB2024OurStory` repo. To merge this into yours, click `Sync fork` in your repo's homepage `[your username]/CaSB2024OurStory`. 
+10. The merged version is now in the `jcorrett/MCSB_2025_OurStory` repo. To merge this into yours, click `Sync fork` in your repo's homepage `[your username]/MCSB_2025_OurStory`. 
 
