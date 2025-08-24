@@ -8,7 +8,7 @@ The activity:
 
 We will spend about 5 minutes on each step. If you get lost or something doesn't work, you can still follow along, and later tonight try again as if you were Tier 1.
 
-1. Generate a random number using [www.google.com/search?q=random+number+generator](https://www.google.com/search?q=random+number+generator). If it is less than 5, you are in Tier 1. If it is greater than 5, you are in Tier 2. 
+1. Generate a random number using [www.google.com/search?q=random+number+generator](https://www.google.com/search?q=random+number+generator). If it is less than or equal to 5, you are in Tier 1. If it is greater than 5, you are in Tier 2. 
 
 2. If you are in Tier 1, fork this repo from jcorrett. The "Fork" button is at top-right.
 
